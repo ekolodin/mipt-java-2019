@@ -1,3 +1,3 @@
 # mipt-java-2019
 
-Some hometasks 
+Some hometasks, most of them are in %/sbertech%
